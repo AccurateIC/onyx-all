@@ -1,8 +1,10 @@
 "use client";
 
-import { useContext } from "react";
+import { useContext, useEffect, useState } from "react";
 import { SettingsContext } from "../settings/SettingsProvider";
 import { OnyxIcon, OnyxLogoTypeIcon } from "../icons/icons";
+import Image from "next/image";
+import { useTheme } from "next-themes";
 
 export function Logo({
   height,
@@ -16,6 +18,15 @@ export function Logo({
   size?: "small" | "default" | "large";
 }) {
   const settings = useContext(SettingsContext);
+  const { theme, systemTheme } = useTheme();
+  const [mounted, setMounted] = useState(false);
+
+  useEffect(() => {
+    setMounted(true);
+  }, []);
+
+  const effectiveTheme = theme === "system" ? systemTheme : theme;
+  const isDarkMode = effectiveTheme === "dark";
 
   const sizeMap = {
     small: { height: 24, width: 22 },
@@ -27,6 +38,9 @@ export function Logo({
   height = height || defaultHeight;
   width = width || defaultWidth;
 
+  if (!mounted) return null; // Prevents hydration mismatch
+
+  // Check if a custom logo is used
   if (
     !settings ||
     !settings.enterpriseSettings ||
@@ -34,29 +48,30 @@ export function Logo({
   ) {
     return (
       <div style={{ height, width }} className={className}>
-        <OnyxIcon
-          size={height}
-          className={`${className} dark:text-[#fff] text-[#000]`}
+        <Image
+          src={isDarkMode ? "/logo.png" : "/logo-dark.png"}
+          alt="Company Logo"
+          width={width}
+          height={height}
+          priority
         />
       </div>
     );
   }
 
+  // If a custom logo is used, load it
   return (
-    <div
-      style={{ height, width }}
-      className={`flex-none relative ${className}`}
-    >
-      {/* TODO: figure out how to use Next Image here */}
-      <img
-        src="/api/enterprise-settings/logo"
-        alt="Logo"
-        style={{ objectFit: "contain", height, width }}
+    <div style={{ height, width }} className={className}>
+      <Image
+        src={isDarkMode ? settings.enterpriseSettings.dark_logo_url : settings.enterpriseSettings.light_logo_url}
+        alt="Custom Company Logo"
+        width={width}
+        height={height}
+        priority
       />
     </div>
   );
 }
-
 export function LogoType({
   size = "default",
 }: {

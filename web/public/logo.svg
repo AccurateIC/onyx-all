@@ -1,5 +1,152 @@
-<svg viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path fill-rule="evenodd" clip-rule="evenodd"
-        d="M27.9998 0L10.8691 7.76944L27.9998 15.5389L45.1305 7.76944L27.9998 0ZM27.9998 40.4611L10.8691 48.2306L27.9998 56L45.1305 48.2306L27.9998 40.4611ZM48.2309 10.8691L56.0001 28.0003L48.2309 45.1314L40.4617 28.0003L48.2309 10.8691ZM15.5385 28.0001L7.76923 10.869L0 28.0001L7.76923 45.1313L15.5385 28.0001Z"
-        fill="black" />
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 446.02 513.58">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 1.88px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-9, .cls-10 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 7.12px;
+      }
+
+      .cls-3 {
+        stroke-width: 1.19px;
+      }
+
+      .cls-11 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-4 {
+        stroke-width: 5.93px;
+      }
+
+      .cls-5, .cls-8 {
+        stroke-width: 7.53px;
+      }
+
+      .cls-6 {
+        stroke-width: 3.56px;
+      }
+
+      .cls-7 {
+        stroke-width: 8.3px;
+      }
+
+      .cls-8 {
+        stroke-linejoin: bevel;
+      }
+
+      .cls-9 {
+        stroke-width: 9.49px;
+      }
+
+      .cls-10 {
+        stroke-width: 4.74px;
+      }
+
+      .cls-12 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="109.34" y1="385.46" x2="240.26" y2="385.46" gradientTransform="translate(17.48 44.83) rotate(-3.11)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d1d3d4"/>
+      <stop offset="1" stop-color="#231f20"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="98.63" y1="385.51" x2="250.67" y2="385.51" gradientTransform="translate(17.48 44.83) rotate(-3.11)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".33" stop-color="#fff"/>
+      <stop offset="1" stop-color="#939598"/>
+    </linearGradient>
+  </defs>
+  <polyline class="cls-5" points="262.58 70.63 262.58 93.31 235.28 120.52 235.28 193.09 212.95 213.5"/>
+  <polyline class="cls-5" points="157.12 221.44 157.12 250.92 193.1 283.24 193.1 298.55 212.95 313.29"/>
+  <polyline class="cls-5" points="212.95 87.64 212.95 145.47 235.28 162.48"/>
+  <polyline class="cls-7" points="185.66 137.53 185.66 188.56 212.95 213.5"/>
+  <polyline class="cls-5" points="237.77 306.49 237.77 326.9 213.54 350.6"/>
+  <polyline class="cls-5" points="64.07 246.39 86.4 264.53 116.18 264.53 137.27 283.24 137.27 305.35 199.3 362.05 199.3 401.67"/>
+  <polyline class="cls-5" points="374.24 165.88 346.95 187.42 346.95 235.05"/>
+  <line class="cls-4" x1="320.89" y1="213.5" x2="320.89" y2="255.46"/>
+  <line class="cls-5" x1="191.86" y1="255.46" x2="193.1" y2="283.24"/>
+  <polyline class="cls-4" points="185.66 70.63 185.66 95.58 212.95 119.39"/>
+  <polyline class="cls-1" points="315.93 322.77 289.88 345.04 255.79 345.04"/>
+  <polyline class="cls-1" points="300.04 316.74 300.04 325.42 285.86 339.9 260.65 339.9"/>
+  <polyline class="cls-1" points="109.34 304.58 131.69 326 159.87 326"/>
+  <polyline class="cls-1" points="173.96 307.47 191.86 322.36 191.86 355.24"/>
+  <polyline class="cls-1" points="52.95 200.46 78.96 225.41 96.03 225.41 114.41 241.47 116.18 264.53"/>
+  <polyline class="cls-1" points="75.76 207.88 84.56 215.99 94.13 215.99 122.01 239.73 122.01 269.35"/>
+  <polyline class="cls-1" points="98.89 207.88 131.69 235.05 129.48 276.33"/>
+  <polyline class="cls-1" points="122.01 151.14 122.01 159.24 159.87 191.09 159.87 200.46"/>
+  <polyline class="cls-1" points="262.58 151.14 262.58 185.3 288.63 207.88"/>
+  <polyline class="cls-1" points="282.3 112.58 290.54 119.39 290.54 134.35 262.58 162.48"/>
+  <line class="cls-3" x1="203.74" y1="175.8" x2="203.74" y2="205.08"/>
+  <polyline class="cls-1" points="165.73 106.55 155.59 116.4 155.59 151.14 182.91 175.52"/>
+  <polyline class="cls-1" points="149.25 73.55 149.25 141.04 155.59 151.14"/>
+  <polyline class="cls-1" points="116.18 91.5 140.94 112.58 140.94 125.06 149.25 135.66"/>
+  <polyline class="cls-1" points="243.97 232.5 243.97 261.73 214.48 283.24"/>
+  <polyline class="cls-1" points="232.25 246.39 232.25 260.57 214.48 276.33"/>
+  <polyline class="cls-1" points="296.24 106.55 296.24 141.04 262.58 171.4"/>
+  <polyline class="cls-1" points="303.21 119.39 303.21 146.51 275.61 171.4 275.61 184.14 288.63 193.41"/>
+  <polyline class="cls-1" points="346.95 144.77 320.89 168.51 320.89 190.44"/>
+  <polyline class="cls-1" points="334.54 171.4 328.55 179.51 328.55 185.3 336.78 190.44 336.78 213.5 328.55 220.31 328.55 249.46"/>
+  <polyline class="cls-1" points="369.1 249.46 346.95 249.46 336.78 257.87 320.89 261.36"/>
+  <polyline class="cls-1" points="355.79 261.36 344.99 261.36 336.78 267.52 320.89 269.07"/>
+  <polyline class="cls-1" points="344.99 276.33 328.55 276.33 315.93 288.37 300.04 287.87"/>
+  <ellipse class="cls-9" cx="263.57" cy="53.03" rx="16.78" ry="15.33"/>
+  <ellipse class="cls-2" cx="344.06" cy="105.52" rx="12.74" ry="11.65"/>
+  <ellipse class="cls-2" cx="187.83" cy="238.62" rx="16.78" ry="15.33"/>
+  <ellipse class="cls-9" cx="382.99" cy="210.8" rx="15.14" ry="13.83"/>
+  <ellipse class="cls-9" cx="380.02" cy="158.3" rx="15.14" ry="13.83"/>
+  <ellipse class="cls-2" cx="321.34" cy="202.5" rx="9.82" ry="8.97"/>
+  <ellipse class="cls-2" cx="185.66" cy="128.46" rx="9.82" ry="8.97"/>
+  <ellipse class="cls-2" cx="214.48" cy="77.33" rx="9.82" ry="8.97"/>
+  <ellipse class="cls-2" cx="73.88" cy="131.45" rx="9.82" ry="8.97"/>
+  <ellipse class="cls-7" cx="242.73" cy="296.74" rx="9.82" ry="8.97"/>
+  <ellipse class="cls-2" cx="290.7" cy="237.63" rx="12.13" ry="11.09" transform="translate(-69.68 132.26) rotate(-22.97)"/>
+  <ellipse class="cls-2" cx="58.46" cy="238.62" rx="9.82" ry="8.97"/>
+  <ellipse class="cls-2" cx="158.67" cy="211.47" rx="9.82" ry="8.97"/>
+  <ellipse class="cls-2" cx="45.42" cy="192.25" rx="9.82" ry="8.97" transform="translate(-71.41 32.96) rotate(-22.97)"/>
+  <ellipse class="cls-2" cx="102.09" cy="295.61" rx="9.82" ry="8.97"/>
+  <ellipse class="cls-2" cx="185.66" cy="59.39" rx="9.82" ry="8.97"/>
+  <ellipse class="cls-10" cx="148.56" cy="65.83" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-10" cx="109.34" cy="87.64" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-10" cx="171.05" cy="99.6" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-10" cx="122.01" cy="144.77" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-10" cx="73.88" cy="200.46" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-10" cx="98.89" cy="202.5" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-10" cx="243.97" cy="224.63" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-10" cx="229.23" cy="240.97" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-10" cx="168.49" cy="304.58" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-10" cx="203.74" cy="167.61" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-10" cx="260.65" cy="142.44" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-10" cx="275.61" cy="111.48" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-10" cx="296.24" cy="99.6" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-6" cx="309.36" cy="115.11" rx="6.16" ry="5.63"/>
+  <ellipse class="cls-10" cx="350.03" cy="137.53" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-10" cx="341.16" cy="167.61" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-10" cx="379.72" cy="249.46" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-10" cx="363.33" cy="264.53" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-10" cx="349.68" cy="282.35" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-10" cx="324.53" cy="317.34" rx="8.87" ry="8.1"/>
+  <ellipse class="cls-10" cx="300.04" cy="309.24" rx="8.87" ry="8.1"/>
+  <polyline class="cls-8" points="374.24 220.31 356.87 235.05 346.95 235.05 320.89 255.46 320.89 269.07 276.88 308.75 276.88 322.77 243.97 357.51 243.21 385.42"/>
+  <line class="cls-5" x1="212.74" y1="207.88" x2="214.69" y2="432.32"/>
+  <g>
+    <path class="cls-12" d="M149.58,460.08s4.91,17.48,24.64.89l67.43-84.79s6.3-9.65,14.67-13.21c8.37-3.56,20.59,2.43,19.74,15.78,0,0-9.18-14.57-25.38,2.71l-56.65,70.9s-19.46,31.2-32.68,25.46c0,0-12.05-1.33-11.77-17.74Z"/>
+    <path class="cls-11" d="M170.23,477.59s-16.76,13.32-28.9-4.2c0,0-6.03-8.1.7-38.61,0,0,10.96-36.5,20.06-55.62,0,0,12.2-33.02,30.42-6.53,0,0,31.34,42.63,36.62,49.88l9.04,11.92s7.76,14.21,19.06-3.25c0,0,13.88-24.6,18.83-52.45,1.26-7.08-6.28-19.17-19.74-15.78,0,0,13.58-14.04,26.02,2.58,0,0,8.55,9.29,2.16,39.78,0,0-13.54,46.84-23.89,62.47,0,0-9.22,16.9-21.95,7.84,0,0-21.59-24.1-38.86-52.42,0,0-16.07-31.93-27.4-21.57,0,0-8.95,2.7-21.26,46.37,0,0-9.66,34.66,19.09,29.55Z"/>
+  </g>
+  <polyline class="cls-5" points="78.96 137.53 97.57 153.41 97.57 179.49 119.9 197.63 132.31 197.63 147.91 210.6"/>
+  <line class="cls-5" x1="289.34" y1="249.46" x2="248.17" y2="287.37"/>
+  <polyline class="cls-5" points="334.54 112.58 318.41 125.06 318.41 151.14 288.63 180.62 288.63 225.41"/>
+  <polyline class="cls-5" points="237.77 306.49 237.77 326.9 213.54 350.6"/>
 </svg>
